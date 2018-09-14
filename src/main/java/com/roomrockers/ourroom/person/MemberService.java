@@ -1,5 +1,6 @@
 package com.roomrockers.ourroom.person;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public interface MemberService {
